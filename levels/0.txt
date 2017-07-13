@@ -1,0 +1,13 @@
+#######
+#.1.2.####
+#.......e#
+##########
+---
+characters: 2
+control: [1, 2]
+symtable:
+  '#': wall
+  '.': floor
+  'e': exit
+helptext:
+  '1, 3': 'Try to get all the balls on the green tile! When the balls touch, they will merge.'
